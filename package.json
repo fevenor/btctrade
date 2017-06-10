@@ -1,0 +1,21 @@
+{
+  "name": "btctrade",
+  "version": "0.0.1",
+  "description": "比特币交易网Node.js API",
+  "main": "index.js",
+  "keywords": [
+    "btctrade",
+    "exchange",
+    "bitcoin",
+    "litecoin",
+    "ethereum"
+  ],
+  "author": "fevenor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fevenor/btctrade"
+  },
+  "dependencies": {
+  }
+}

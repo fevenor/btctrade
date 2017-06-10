@@ -17,5 +17,7 @@
     "url": "https://github.com/fevenor/btctrade"
   },
   "dependencies": {
+    "request": "~2.81.0",
+    "verror": "~1.10.0"
   }
 }
